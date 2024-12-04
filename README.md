@@ -16,7 +16,7 @@ Famileo Photo Date & Time Extension est une extension Chrome qui simplifie l'ajo
 ---
 
 ## 🖥️ **Installation de l'extension**
-1. Téléchargez l'extension depuis [lien de téléchargement ou fichier ZIP fourni].
+1. Téléchargez l'extension depuis [[lien de téléchargement ou fichier ZIP](https://github.com/nicocouz/Famileo-Photo-Date-Time-Setter/archive/refs/heads/main.zip)].
 2. Ouvrez votre navigateur Chrome et accédez à `chrome://extensions/`.
 3. Activez le **Mode développeur** (coin supérieur droit).
 4. Cliquez sur **Charger l’extension non empaquetée**.
