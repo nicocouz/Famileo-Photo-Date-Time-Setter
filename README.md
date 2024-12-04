@@ -1,6 +1,6 @@
 # Famileo Photo Date & Time Extension
 
-<img src="https://github.com/user-attachments/assets/ad6f2c16-0fba-4416-897c-a1edc3e133b9" alt="LogoFamileo" width="100"/>
+<img src="https://github.com/user-attachments/assets/ad6f2c16-0fba-4416-897c-a1edc3e133b9" alt="LogoFamileo" width="300"/>
 
 ## 🌟 **Description**
 Famileo Photo Date & Time Extension est une extension Chrome qui simplifie l'ajout de la date et de l'heure natives des photos sur le site de **Famileo**. Si vous utilisez Famileo pour gérer vos albums photo, cette extension vous permet de récupérer automatiquement les métadonnées (EXIF) des photos pour définir rapidement leur date et heure sans effort manuel.
