@@ -1,0 +1,45 @@
+{
+    "manifest_version": 3,
+    "name": "Famileo Photo Date & Time Setter",
+    "version": "1.0",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "action": {
+        "default_icon": {
+            "16": "famileo.png",
+            "48": "famileo.png",
+            "128": "famileo.png"
+        }
+    },
+    "icons": {
+        "16": "famileo.png",
+        "48": "famileo.png",
+        "128": "famileo.png"
+    },
+    "host_permissions": [
+        "https://*.famileo.com/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.famileo.com/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "libs/exif.js",
+                "injected.js"
+            ],
+            "matches": [
+                "https://*.famileo.com/*"
+            ]
+        }
+    ]
+}
