@@ -2,6 +2,7 @@
     "manifest_version": 3,
     "name": "Famileo Photo Date & Time Setter",
     "version": "1.0",
+    "description": "Une extension Chrome pour ajouter automatiquement la date et l'heure native des photos sur le site Famileo, en récupérant les métadonnées EXIF des images.",
     "permissions": [
         "activeTab",
         "scripting"
